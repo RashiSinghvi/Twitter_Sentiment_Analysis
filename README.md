@@ -1,14 +1,14 @@
 # Twitter_Sentiment_Analysis
 This repository contains all files and code of Twitter_Sentiment_analysis project.<br>
-This project contains textual data so we use NLP technology for data prepartions and data modelling
+This project contains textual data so we use NLP technology for data prepartions and data modelling :dart:
 
-Collaborators :- PriyanshuParihar , Rani Maheshwari <br>
+Collaborators :signal_strength: :- PriyanshuParihar , Rani Maheshwari <br>
 In this project we analysis the twitter sentiment and design a web application using streamlit( python Library)
 
-Model Folder includes the pkl files which basically store the calculations of ML algorithms which we use in this project <br>
+Model Folder includes the pkl files which basically store the calculations of ML algorithms which we use in this project :mag: <br>
 Image Folder includes the related image of our project <br>
 Rtweet.csv contains the dataset which is being used <br>
-sentiment_app_code.py is a python file which contains the code for designing web app with using python language <br>
-twas_code.ipynb file contains code for EDA, Data Prepartion and Modelling. <br>
+sentiment_app_code.py is a python file which contains the code for designing web app with using python language :chart_with_upwards_trend: <br>
+twas_code.ipynb file contains code for EDA, Data Prepartion and Modelling. :bar_chart: <br>
 
-ML algorithms which is uesd: Logistic Regression as target variable is "positive or negative sentiment"
+ML algorithms which is uesd: Logistic Regression as target variable is "positive or negative sentiment" :memo:
